@@ -20,6 +20,10 @@ After purchasing the item, user has options to either continue it's
 purchase or exit the application.
 
 
+## Technolgies used:
+
+Python
+
 
 
 ### Screenshots
