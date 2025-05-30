@@ -1,32 +1,20 @@
-### VendingMachine
+## Vending Machine Application
+
+# Description
+- This Python application simulates a vending machine that allows users to purchase items using valid coins (dime, nickel, quarter, dollar). The program features an interactive menu system with clear item information and maintains a running balance during transactions.
+
+# Key Features
+- User-Friendly Menu: Displays available items with codes, names, and prices
+- Input Validation: Ensures only valid item codes and coins are accepted
+- Balance Tracking: Continuously updates and displays the current balance
+- Transaction Flow: Guides users through purchasing with clear prompts
+- Flexible Options: Allows continuing purchases or exiting after each transaction
+
+# Technologies Used
+Python 3.x
 
 
-### Description
-
-This is an application in which we have items from which we can purchase, the price of each item, item code and 
-acceptable currency in coins.
-We also display the current balance.
-
-First we display menu to the user with code,name and price.
-We ask the user to enter the valid item code.
-Only the listed coins dime, nickel, quarter, dollar are allowed to be used.
-
-After which with a series of if-else condition we do all the processing.
-We keep updating the balance with respect to each operation performed
-by the user.
-
-
-After purchasing the item, user has options to either continue it's 
-purchase or exit the application.
-
-
-## Technolgies used:
-
-Python
-
-
-
-### Screenshots
+# Screenshots
 
 Initial Menu for the user:
 
